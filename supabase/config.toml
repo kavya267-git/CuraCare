@@ -1,0 +1,4 @@
+project_id = "tmazimmdzielqfsvsrbp"
+
+[functions.chat]
+verify_jwt = false
